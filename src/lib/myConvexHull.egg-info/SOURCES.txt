@@ -1,0 +1,9 @@
+README.md
+setup.py
+myConvexHull/__init__.py
+myConvexHull/myfunctions.py
+myConvexHull.egg-info/PKG-INFO
+myConvexHull.egg-info/SOURCES.txt
+myConvexHull.egg-info/dependency_links.txt
+myConvexHull.egg-info/requires.txt
+myConvexHull.egg-info/top_level.txt
