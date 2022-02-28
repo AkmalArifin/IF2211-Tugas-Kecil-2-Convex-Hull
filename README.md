@@ -2,13 +2,17 @@
   # IF2211-Tugas-Kecil-2-Convex-Hull
 </div>
 
+<details open="open">
 <summary>Table of Contents</summary>
+  
 - [About](#about)
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Usage](#usage)
 - Author
 
+</details>
+  
 ---
 
 ## About
