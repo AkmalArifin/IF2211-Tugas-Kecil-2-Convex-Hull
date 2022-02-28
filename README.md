@@ -1,5 +1,5 @@
 <div align="center">
-  # IF2211-Tugas-Kecil-2-Convex-Hull
+  <h1>IF2211-Tugas-Kecil-2-Convex-Hull</h1>
 </div>
 
 <details open="open">
