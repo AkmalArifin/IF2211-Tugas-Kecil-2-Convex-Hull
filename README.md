@@ -9,7 +9,7 @@
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Usage](#usage)
-- Author
+- Author(#author)
 
 </details>
   
